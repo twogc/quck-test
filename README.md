@@ -1,5 +1,7 @@
 # 2GC CloudBridge QUICK testing
 
+[🇷🇺 Read in Russian (Русская версия)](README_RU.md) 
+
 Load tester and analyzer for QUIC + TLS 1.3
 
 [![Watch Demo Video](https://customer-aedqzjrbponeadcg.cloudflarestream.com/d31af3803090bcb58597de9fe685a746/thumbnails/thumbnail.jpg)](https://customer-aedqzjrbponeadcg.cloudflarestream.com/d31af3803090bcb58597de9fe685a746/watch)
@@ -89,6 +91,3 @@ go run main.go --mode=client --addr=127.0.0.1:9000 --connections=2 --streams=4 -
 * [tablewriter](https://github.com/olekukonko/tablewriter)
 * [asciigraph](https://github.com/guptarohit/asciigraph)
 * [prometheus/client\_golang](https://github.com/prometheus/client_golang)
-
-
-[🇷🇺 Read in Russian (Русская версия)](README_RU.md) 
